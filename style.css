@@ -1,0 +1,68 @@
+h1{
+   font-size: 35px;
+}
+h3{
+   font-size: 25px;
+}
+.color-name{
+   color:orangered;
+}
+.varsity{
+   display: flex;
+   margin-bottom: 10%;
+  
+
+
+}
+.dream{
+   display:flex;
+   margin-bottom: 10%;
+  
+}
+.experience{
+   margin-bottom: 10%;
+}
+.varsity-div{
+   width: 50%;
+   padding-left: 15px;
+}
+.varsity-div img{
+   width: 30%;
+   padding-top: 30px;
+}
+
+.experi-div{
+   display: flex;
+  
+}
+
+.div-experience{
+   width:60%;
+   padding-left: 8px;
+   margin-left: 5%;
+   margin-right: 5%;
+   box-shadow: 10px 10px 40px;
+   border-radius: 5%;
+   
+}
+#full-webD{
+   border-left: 7px solid;
+ 
+   border-image: linear-gradient(red,tomato);
+   border-image-slice: 1;
+}
+#baby-webD{
+   border-left: 7px solid;
+ 
+   border-image: linear-gradient(blue,skyblue);
+   border-image-slice: 1;
+}
+.link-button{
+   text-decoration: none;
+   color: white;
+   background-image: linear-gradient(red,tomato);
+   padding: 5px 20px;
+}
+.color-title{
+   color: yellow;
+}
